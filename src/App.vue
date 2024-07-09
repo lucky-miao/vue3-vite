@@ -14,6 +14,10 @@ import HelloWorld from './components/HelloWorld.vue'
   <HelloWorld msg="Vite + Vue" />
 </template>
 
+<script>
+let a = 2;
+
+</script>
 <style scoped>
 .logo {
   height: 6em;
