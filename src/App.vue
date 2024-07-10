@@ -15,7 +15,8 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <script>
-let a = 2;
+let c = 123;
+var cc = 44;
 
 </script>
 <style scoped>

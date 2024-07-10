@@ -16,5 +16,6 @@ module.exports = {
       'prettier/prettier': 'error',
       'vue/multi-word-component-names': 'off',
       'vue/no-v-model-argument': 'off',
+      "no-unused-vars": "error",
     },
   };
