@@ -10,7 +10,7 @@ export default defineConfig({
     ReactivityTransform(),
     AutoImport({
       imports:['vue','vue-router']
-    })
+    }),
     // eslint({ lintOnStart: true, cache: false }), // 项目运行时进行eslint检查
   ],
 });
